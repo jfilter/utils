@@ -9,4 +9,4 @@ alias ci="conda install"
 alias cn="~/utils/scripts/create_env.sh"
 alias cr="conda env remove -n"
 
-alias tmux="~/utils/scripts/tmux.sh"
+alias tmuxn="~/utils/scripts/tmux.sh"
